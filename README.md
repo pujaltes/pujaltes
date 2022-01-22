@@ -10,4 +10,4 @@ Check out my [website](https://pujaltes.github.io/blog/) to see some of the pyth
 
 I developed a spike sorting pipeline called TopoSort. It's currently private as we're still working on publishing our results. If you would like to collaborate with us on TopoSort or test out our algorithm, feel free to contact me.
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pujaltes.pujaltes&left_color=grey&right_color=blueviolet)
